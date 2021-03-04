@@ -1,8 +1,8 @@
 // --------- change this ↓ ---------
 const
-    name = '云与原',
-    githubName = 'yunyuyuan',
-    repo = 'yunyuyuan.github.io',
+    name = '冲瑞的blog',
+    githubName = 'congruiit',
+    repo = 'cit.github.io',
     domain = 'https://blog.halberd.cn'
 // --------- change this ↑ ---------
 
