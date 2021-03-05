@@ -1,9 +1,9 @@
 // --------- change this ↓ ---------
 const
-    name = '冲瑞的blog',
+    name = 'RuiOS',
     githubName = 'congruiit',
     repo = 'cit.github.io',
-    domain = 'https://blog.halberd.cn'
+    domain = 'https://ruios.ml'
 // --------- change this ↑ ---------
 
 
